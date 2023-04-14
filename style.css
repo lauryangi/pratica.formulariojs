@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+form{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
+::placeholder{
+    color: rgb(3, 12, 133)
+}
+button{
+    background-color: rgb(11, 26, 190);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    font-weight: bold;
+}
